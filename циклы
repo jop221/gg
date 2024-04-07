@@ -22,3 +22,5 @@ const autoBrands = ['audi' , 'bmw', 'nissan' , 'shkoda', 'lox']
 for (let item of autoBrands){
     console.log(item)
 }
+https://github.com/sasasasasasasasasasa05/1/issues/1
+https://github.com/YaroslavDudin/yaroslav
